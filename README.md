@@ -12,7 +12,7 @@ Feel free to go to [Google](http://google.com).
 >
 > Here is some more information.  It's meaningless for now.
 >
-> Here is a *bold* word.
+> Here is a *italicized* word.
 
 Here is another **bold word**.
 
